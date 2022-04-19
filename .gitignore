@@ -1,0 +1,5 @@
+test*
+tmc*
+.tmcproject.yml*
+course_config.toml
+__pycache__*
